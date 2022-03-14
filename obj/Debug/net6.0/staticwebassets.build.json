@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "bOLocLKncHlsB73VYcZy+AKuKaiUeZl1UD9XxL8i6PY=",
+  "Source": "ShopsRCUS.Discount.API",
+  "BasePath": "_content/ShopsRCUS.Discount.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShopsRCUS.Discount.API\\wwwroot",
+      "Source": "ShopsRCUS.Discount.API",
+      "ContentRoot": "C:\\Users\\Koladeza\\source\\repos\\ShopsRCUS.Discount.API\\wwwroot\\",
+      "BasePath": "_content/ShopsRCUS.Discount.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Koladeza\\source\\repos\\ShopsRCUS.Discount.API\\wwwroot\\Styles\\invoice.css",
+      "SourceId": "ShopsRCUS.Discount.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Koladeza\\source\\repos\\ShopsRCUS.Discount.API\\wwwroot\\",
+      "BasePath": "_content/ShopsRCUS.Discount.API",
+      "RelativePath": "Styles/invoice.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Styles\\invoice.css"
+    },
+    {
+      "Identity": "C:\\Users\\Koladeza\\source\\repos\\ShopsRCUS.Discount.API\\wwwroot\\Styles\\site.css",
+      "SourceId": "ShopsRCUS.Discount.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Koladeza\\source\\repos\\ShopsRCUS.Discount.API\\wwwroot\\",
+      "BasePath": "_content/ShopsRCUS.Discount.API",
+      "RelativePath": "Styles/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Styles\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Koladeza\\source\\repos\\ShopsRCUS.Discount.API\\wwwroot\\Views\\invoice.html",
+      "SourceId": "ShopsRCUS.Discount.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Koladeza\\source\\repos\\ShopsRCUS.Discount.API\\wwwroot\\",
+      "BasePath": "_content/ShopsRCUS.Discount.API",
+      "RelativePath": "Views/invoice.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Views\\invoice.html"
+    },
+    {
+      "Identity": "C:\\Users\\Koladeza\\source\\repos\\ShopsRCUS.Discount.API\\wwwroot\\Views\\productrow.html",
+      "SourceId": "ShopsRCUS.Discount.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Koladeza\\source\\repos\\ShopsRCUS.Discount.API\\wwwroot\\",
+      "BasePath": "_content/ShopsRCUS.Discount.API",
+      "RelativePath": "Views/productrow.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Views\\productrow.html"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9d1fae0-2115-40ee-8d00-4c9f89e924d2": {
+      "ProjectGuid": "c9d1fae0-2115-40ee-8d00-4c9f89e924d2",
+      "DisplayName": "ShopsRCUS.Discount.API",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cbcc9866-a5a8-4c22-9817-b3b904fe6cff": {
+      "ProjectGuid": "cbcc9866-a5a8-4c22-9817-b3b904fe6cff",
+      "DisplayName": "ShopsRCUS.Discount.API.Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
