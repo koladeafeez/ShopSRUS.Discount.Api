@@ -2,16 +2,17 @@
 An API FOr ShopSRUS.Discount.API
 
 <h3> Installation guides </h3>
+
 1. Clone and Build The API
 
 2.  Add  the following fields in your appsettting.config <br>
     `ConnectionStrings: {
-    "DiscountConnectionString": "Data Source=C:\\Users\\Koladeza\\source\\repos\\demo.db"
+    "DiscountConnectionString": "{connectionString}"
   }` <br>
     `DiscountSetting": {
-    "Tax": "7.5",
-    "UseLowestDiscount": "true",
-    "domain": "@shopsrus.com"` <br>
+    "Tax": " vat e.g 7.5",
+    "UseLowestDiscount": "true"/"false",
+    "domain": "supported domain e.g @shopsrus.com"}` <br>
    
 
 
