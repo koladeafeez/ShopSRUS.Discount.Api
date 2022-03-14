@@ -1,5 +1,5 @@
 # ShopSRUS.Discount.Api
-An API FOr ShopSRUS.Discount.API
+Discount API FOr ShopsRUs
 
 <h3> Installation guides </h3>
 
