@@ -18,4 +18,4 @@ An API FOr ShopSRUS.Discount.API
 
 3. run the command `update-database` using the package manager console to seed your database <br>
 
-7. navigate to the API using your favourite browser/other tools.
+7. navigate to the API using your favourite browser/tools.
